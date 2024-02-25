@@ -30,6 +30,15 @@ CLIP is an app that performs quests to help improve the environment.
 ```
     flutter pub get
 ```
+3. Set the file
+* lib/firebase_options.dart
+* ios/Runner/GoogleService-Info.plist
+* ios/firebase_app_id_file.json
+* macos/Runner/GoogleService-Info.plist
+* macos/firebase_app_id_file.json
+* android/app/google-services.json.DS_Store
+* android/app/src/main/AndroidManifest.xml
+* ios/Runner/AppDelegate.swift
 
 ### CLIP_AI Repository
 1. Clone CLIP_AI Repository
