@@ -41,7 +41,13 @@ CLIP is an app that performs quests to help improve the environment.
 * ios/Runner/AppDelegate.swift
   
  **We can't provide the above files due to API key security issue, so you need to set them up individually.**
+ 
+4. Execute
+```
+flutter run
+```
 ### CLIP_AI Repository
+
 1. Clone CLIP_AI Repository
 2. Install
    
