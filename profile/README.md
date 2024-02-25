@@ -39,7 +39,8 @@ CLIP is an app that performs quests to help improve the environment.
 * android/app/google-services.json.DS_Store
 * android/app/src/main/AndroidManifest.xml
 * ios/Runner/AppDelegate.swift
-
+  
+ **We can't provide the above files due to API key security issue, so you need to set them up individually.**
 ### CLIP_AI Repository
 1. Clone CLIP_AI Repository
 2. Install
