@@ -1,8 +1,11 @@
 # 2024_Solution Chanllenge
 This is 2024 GDSC Solution Challenge CLIP Repository
 
-## 🖥 Introduction
+## ℹ Introduction
 CLIP is an app that performs quests to help improve the environment.
+
+### 🚩 UN SDGs Goals
+We choose 
 
 ## 🕰 Development period
 * 24.01.07 - 24.02.23
@@ -13,7 +16,7 @@ CLIP is an app that performs quests to help improve the environment.
  - Minji Kwon : Frontend
  - Miso Kim : Frontend
 
-## 📍 Tech Stack
+## 🖥 Build With
 * Flutter
 * Firebase
 * Fast API
