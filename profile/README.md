@@ -1,8 +1,12 @@
-# 2024_Solution Chanllenge
-This is 2024 GDSC Solution Challenge CLIP Repository
+# 2024_Solution Challenge
+This is 2024 GDSC Solution Challenge CLIP Repository.
+<img width="1728" alt="image" src="https://github.com/CLIP-CLImate-Protection/.github/assets/127665166/05c47ee4-861c-460e-83fb-e2565bd9d13f">
+</br>
+<img width="1046" alt="image" src="https://github.com/CLIP-CLImate-Protection/.github/assets/127665166/84c37e9d-56f5-402f-8d5e-3c218a34d221">
 
 ## ℹ Introduction
-CLIP is an app that performs quests to help improve the environment.
+CLIP is an app that performs quests to help improve the environment.</br>
+We create an environment where environmental conservation can be practiced close to life and promote more people who are conscious and interested voluntarily.
 
 ### 🚩 UN SDGs Goals
 <img width="160" height="158" alt="goal12" src="https://github.com/CLIP-CLImate-Protection/.github/assets/118418288/2bc13e2c-6ece-4bbf-b76b-02cc383d84b1">
@@ -21,6 +25,8 @@ CLIP is an app that performs quests to help improve the environment.
 * Flutter
 * Firebase
 * Fast API
+* YOLOv8 - ultralytics
+* Roboflow - making dataset
 
 ## 📍 How to use?
 
@@ -47,6 +53,10 @@ CLIP is an app that performs quests to help improve the environment.
     flutter run
 ```
 ### CLIP_AI Repository
+* .ipynb: File for learning
+* predict.py: File for execution
+* best.pt: model parameter
+</br>
 
 1. Clone CLIP_AI Repository
 2. Install
@@ -61,3 +71,4 @@ CLIP is an app that performs quests to help improve the environment.
 ```
     uvicorn predict:app —reload
 ```
+Then, You can communicate with the flutter app to get inference results.
