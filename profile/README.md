@@ -1,12 +1,43 @@
-## Hi there 👋
+# 2024_Solution Chanllenge
+This is 2024 GDSC Solution Challenge CLIP Repository
 
-<!--
+## 🖥 Introduction
+CLIP is an app that performs quests to help improve the environment.
 
-**Here are some ideas to get you started:**
+## 🕰 Development period
+* 24.01.07 - 24.02.23
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🧑‍🤝‍🧑 Member
+ - Doyeon Koo : AI
+ - Sojeong Lee : Backend
+ - Minji Kwon : Frontend
+ - Miso Kim : Frontend
+
+## 📍 Tech Stack
+* Flutter
+* Firebase
+* Fast API
+
+## 📍 How to use?
+
+### CLIP Repository
+1. Clone CLIP Repository
+2. Get dependency
+```
+    flutter pub get
+```
+
+### CLIP_AI Repository
+1. Clone CLIP_AI Repository
+2. Install
+   
+```
+    pip install uvicorn
+    pip install python-multipart
+    pip install ultralytics
+```
+
+3. Execute
+```
+    uvicorn predict:app —reload
+```
