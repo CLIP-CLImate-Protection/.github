@@ -1,8 +1,9 @@
-# 2024_Solution Challenge
+# 2024_GDSC Solution Challenge
 This is 2024 GDSC Solution Challenge CLIP Repository.
 <img width="1728" alt="image" src="https://github.com/CLIP-CLImate-Protection/.github/assets/127665166/05c47ee4-861c-460e-83fb-e2565bd9d13f">
 </br>
-<img width="1046" alt="image" src="https://github.com/CLIP-CLImate-Protection/.github/assets/127665166/84c37e9d-56f5-402f-8d5e-3c218a34d221">
+## :bulb: Architecture
+<img width="1040" alt="image" src="https://github.com/CLIP-CLImate-Protection/.github/assets/127665166/84c37e9d-56f5-402f-8d5e-3c218a34d221">
 
 ## ℹ Introduction
 CLIP is an app that performs quests to help improve the environment.</br>
