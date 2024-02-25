@@ -44,7 +44,7 @@ CLIP is an app that performs quests to help improve the environment.
  
 4. Execute
 ```
-flutter run
+    flutter run
 ```
 ### CLIP_AI Repository
 
